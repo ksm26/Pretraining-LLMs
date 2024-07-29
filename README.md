@@ -3,7 +3,9 @@
 Welcome to the "Pretraining LLMs" course! 🧑‍🏫 The course dives into the essential steps of pretraining large language models (LLMs).
 
 ## 📘 Course Summary
-In this course, you’ll explore pretraining, the foundational step in training LLMs, which involves teaching an LLM to predict the next token using vast text datasets. 🧠 You'll learn the essential steps to pretrain an LLM, understand the associated costs, and discover cost-effective methods by leveraging smaller, existing open-source models.
+In this course, you’ll explore pretraining, the foundational step in training LLMs, which involves teaching an LLM to predict the next token using vast text datasets. 
+
+🧠 You'll learn the essential steps to pretrain an LLM, understand the associated costs, and discover cost-effective methods by leveraging smaller, existing open-source models.
 
 **Detailed Learning Outcomes:**
 1. 🧠 **Pretraining Basics**: Understand the scenarios where pretraining is the optimal choice for model performance. Compare text generation across different versions of the same model to grasp the performance differences between base, fine-tuned, and specialized pre-trained models.
